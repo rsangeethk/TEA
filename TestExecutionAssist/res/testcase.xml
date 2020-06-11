@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<testcase>
+	<testcasename></testcasename>
+	<testdescription></testdescription>
+	<teststep>
+		<stepdescription></stepdescription>
+		<expectedresult></expectedresult>
+		<actualresult></actualresult>
+		<stepstatus></stepstatus>
+	</teststep>
+</testcase>
